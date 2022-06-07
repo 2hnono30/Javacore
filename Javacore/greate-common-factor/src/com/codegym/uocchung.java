@@ -1,8 +1,8 @@
-package com.codegym;
+
 
 import java.util.Scanner;
 
-public class Main {
+public class uocchung {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("input a:");
@@ -11,7 +11,7 @@ public class Main {
         int b = scanner.nextInt();
         a = Math.abs(a);
         b = Math.abs(b);
-        if (a==0||b==0){
+        if (a == 0 || b == 0) {
             System.out.println("No greatest common factor");
         }
         while (a != b) {
