@@ -1,8 +1,8 @@
-package interface_Comparable;
-
-public abstract class Shape {
+package Resizeable;
+public abstract class Shape implements Resizeable {
     private String color = "green";
     private boolean filled = true;
+
 
     public Shape() {
     }
@@ -36,5 +36,14 @@ public abstract class Shape {
                 + (isFilled() ? "filled" : "not filled");
     }
 
-    public abstract void resize(double percent);
+    public static void printShape(Shape[] shape) {
+        for (Shape x : shape) {
+            System.out.println(x.toString());
+        }
+    }
+
+    @Override
+    public void resize(double percent) {
+
+    }
 }

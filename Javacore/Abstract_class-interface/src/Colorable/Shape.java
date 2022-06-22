@@ -1,6 +1,6 @@
-package interface_Comparable;
+package Colorable;
 
-public abstract class Shape {
+public class Shape {
     private String color = "green";
     private boolean filled = true;
 
@@ -35,6 +35,4 @@ public abstract class Shape {
                 + " and "
                 + (isFilled() ? "filled" : "not filled");
     }
-
-    public abstract void resize(double percent);
 }
