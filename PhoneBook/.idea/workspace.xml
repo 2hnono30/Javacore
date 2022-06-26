@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caf38863-14ce-42e2-8dbd-5edf466c00ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/Rectangle/Rectangle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/StopWatch/StopWatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/System-time/System-time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/array2chieu/array2chieu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/bmi-calculator/bmi-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/concat-array/concat-array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/convert-temperature/convert-temperature.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/day-of-month/day-of-month.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/delete-element/delete-element.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/dem-char/dem-char.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/dem-student/dem-student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/doitien/doitien.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/drawing-menu/drawing-menu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/fan/fan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-element-in-array/find-element-in-array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-max-element/find-max-element.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-minimum/find-minimum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/greate-common-factor/greate-common-factor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/interest-calculator/interest-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/is-prime/is-prime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/leap-year-calculator/leap-year-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/liner-equation-resolver/liner-equation-resolver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/matrancheo/matrancheo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/minofarray/minofarray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/operator-expression/operator-expression.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/reverse-array/reverse-array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/snt/snt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/sout-hello/sout-hello.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/splice-array/splice-array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/sum-of-col-array/sum-of-col-array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/variable-dataType/variable-dataType.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New folder/Javacore/Javacore/vehinh/vehinh.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/New folder/Javacore" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AgP5214zo6KvvG1DMwzFbEhb8H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/New folder",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caf38863-14ce-42e2-8dbd-5edf466c00ba" name="Changes" comment="" />
+      <created>1655428068519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655428068519</updated>
+      <workItem from="1655428070050" duration="168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/New folder.iml" filepath="$PROJECT_DIR$/.idea/New folder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuadraticEquation/QuadraticEquation.iml" filepath="$PROJECT_DIR$/QuadraticEquation/QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/QuadraticEquation/QuadraticEquation1.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/QuadraticEquation/QuadraticEquation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/StopWatch/StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/System-time/System-time.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/System-time/System-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/array2chieu/array2chieu.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/array2chieu/array2chieu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/bmi-calculator/bmi-calculator.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/bmi-calculator/bmi-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/concat-array/concat-array.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/concat-array/concat-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/convert-temperature/convert-temperature.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/convert-temperature/convert-temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/day-of-month/day-of-month.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/day-of-month/day-of-month.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/delete-element/delete-element.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/delete-element/delete-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/dem-char/dem-char.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/dem-char/dem-char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/dem-student/dem-student.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/dem-student/dem-student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/doitien/doitien.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/doitien/doitien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/drawing-menu/drawing-menu.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/drawing-menu/drawing-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/fan/fan.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/fan/fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/find-element-in-array/find-element-in-array.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-element-in-array/find-element-in-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/find-max-element/find-max-element.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-max-element/find-max-element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/find-minimum/find-minimum.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/find-minimum/find-minimum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/greate-common-factor/greate-common-factor.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/greate-common-factor/greate-common-factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/interest-calculator/interest-calculator.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/interest-calculator/interest-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/is-prime/is-prime.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/is-prime/is-prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/leap-year-calculator/leap-year-calculator.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/leap-year-calculator/leap-year-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/liner-equation-resolver/liner-equation-resolver.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/liner-equation-resolver/liner-equation-resolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/matrancheo/matrancheo.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/matrancheo/matrancheo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/minofarray/minofarray.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/minofarray/minofarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/operator-expression/operator-expression.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/operator-expression/operator-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/phonebook_management_system/phonebook_management_system.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/phonebook_management_system/phonebook_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/reverse-array/reverse-array.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/reverse-array/reverse-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/snt/snt.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/snt/snt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/sout-hello/sout-hello.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/sout-hello/sout-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/splice-array/splice-array.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/splice-array/splice-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/sum-of-col-array/sum-of-col-array.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/sum-of-col-array/sum-of-col-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/variable-dataType/variable-dataType.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/variable-dataType/variable-dataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New folder/Javacore/Javacore/vehinh/vehinh.iml" filepath="$PROJECT_DIR$/New folder/Javacore/Javacore/vehinh/vehinh.iml" />
+    </modules>
+  </component>
+</project>
