@@ -9,7 +9,8 @@ public class TestMyLinkedList {
         ll.addFirst(13);
 
         ll.add(4,9);
-        ll.add(4,9);
+        ll.add(5,9);
+        ll.add(15,0);
         ll.printList();
     }
 }
