@@ -1,4 +1,4 @@
-package LinkedList_theo_thư_viên;
+package LinkedList_theo_thu_vien;
 
 
 
@@ -111,5 +111,5 @@ public class MyLinkedList {
             System.out.println(temp.data);
             temp = temp.next;
         }
-    }
+}
 }
