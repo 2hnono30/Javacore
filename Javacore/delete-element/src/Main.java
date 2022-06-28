@@ -11,8 +11,6 @@ public class Main {
                 arr[i]=arr[i++];
             }
             System.out.println(arr[i] + "");
-
         }
-
     }
 }
