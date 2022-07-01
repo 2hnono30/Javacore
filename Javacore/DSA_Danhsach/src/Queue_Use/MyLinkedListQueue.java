@@ -30,15 +30,12 @@ public class MyLinkedListQueue {
     }
 
     public Node dequeue() {
-        if (this.head == null) {
+        if (this.head == null)
             return null;
-        }
-
         Node temp = this.head;
         this.head = this.head.next;
-        if (this.head == null) {
+        if (this.head == null)
             this.tail = null;
-        }
         return null;
     }
 }

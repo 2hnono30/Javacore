@@ -32,7 +32,7 @@ import java.util.*;
     }
 
     // Driver class
-    class main
+    class Main
     {
         public static void main(String[] args)
         {
