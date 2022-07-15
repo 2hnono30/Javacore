@@ -4,22 +4,22 @@ package phonebook1;
 import java.io.Serializable;
 
 @SuppressWarnings("serial")
-public class SLNode implements Serializable {
+public class Node implements Serializable {
 
     private String name;
     private String email;
     private double phoneNumber;
-    private SLNode next;
+    private Node next;
 
 
     // tạo phiên bản SLNode và đặt bên cạnh 'null'
-    public SLNode() {
+    public Node() {
         //data = -1;
         next = null;
     }
 
     /**
-     * tạo setters và getters cho tên, email, số điện thoại và SLNode
+     * tạo setters và getters cho tên, email, số điện thoại và Node
      **/
 
     public String getName() {
@@ -46,17 +46,16 @@ public class SLNode implements Serializable {
         this.phoneNumber = phoneNumber;
     }
 
-    public SLNode getNext() {
+    public Node getNext() {
         return next;
     }
 
-    public void setNext(SLNode next) {
+    public void setNext(Node next) {
         this.next = next;
     }
 
     @Override
     public String toString() {
-        return "Name = " + name + ", Email = " + email + ", Phone Number = "
-                + phoneNumber;
+        return " || Name = " + name + " || Email = " + email + " || Phone Number = " + phoneNumber + " || ";
     }
 }

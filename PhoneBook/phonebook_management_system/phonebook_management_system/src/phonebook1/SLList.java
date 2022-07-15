@@ -1,13 +1,15 @@
 package phonebook1;
 
 
+import Quan_li_ban_hang.Order.Order;
+
 import java.io.Serializable;
 
 @SuppressWarnings("serial")
 public class SLList
         implements Serializable {
 
-    private SLNode head;
+    private Node head;
     private int length;
 
     // initialize the list
@@ -20,9 +22,9 @@ public class SLList
 
     public void add(String name, String email, double phoneNumber) {
 
-        SLNode current = head;
-        SLNode previous = null;
-        SLNode newNode = new SLNode();
+        Node current = head;
+        Node previous = null;
+        Node newNode = new Node();
         // Set the data
 
         newNode.setName(name);
@@ -89,7 +91,7 @@ public class SLList
     public void printList () {
 
         // bắt đầu từ đầu và kiểm tra xem có gì ở đó không
-        SLNode tempNode = head;
+        Node tempNode = head;
         if (head == null) {
             System.out.println("The list is empty!");
         } else {
@@ -112,7 +114,7 @@ public class SLList
 
     // phương thức được sử dụng để tìm kiếm thông qua các tên trong chuỗi
     public void nameSearch(String name) {
-        SLNode current = head;
+        Node current = head;
         boolean empty = true;
 
         // kiểm tra xem danh sách có trống không
@@ -142,7 +144,7 @@ public class SLList
 
     // tạo phương thức để tìm kiếm trong danh sách các địa chỉ email
     public void emailSearch(String email) {
-        SLNode current = head;
+        Node current = head;
         boolean empty = true;
 
 // kiểm tra xem danh sách có trống không
@@ -172,8 +174,8 @@ public class SLList
 
     // tạo phương thức xóa các mục theo chỉ mục
     public void delete (int index) {
-        SLNode current = head;
-        SLNode previous = null;
+        Node current = head;
+        Node previous = null;
         boolean empty = true;
         // kiểm tra xem danh sách có trống không
         if (isEmpty()) {
@@ -212,7 +214,6 @@ public class SLList
         }
 
     }
-
 
 
 

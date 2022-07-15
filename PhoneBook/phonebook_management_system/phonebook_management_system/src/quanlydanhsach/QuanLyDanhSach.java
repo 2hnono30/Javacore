@@ -14,10 +14,10 @@ public class QuanLyDanhSach {
         do {
             System.out.println("**********Main_Menu**********");
             System.out.println("*                           *");
-            System.out.println("* (1).Quản lí người dùng   *");
-            System.out.println("* (2).Quản lí bánh         *");
-            System.out.println("* (3).Quản lí đơn đặt hàng *");
-            System.out.println("* (4).exit                  *");
+            System.out.println("* (1).Thêm sản phẩm         *");
+            System.out.println("* (2).Hiển thị sản phẩm     *");
+            System.out.println("* (3).Sửa sản phẩm          *");
+            System.out.println("* (4).Xóa sản phẩm          *");
             System.out.println("*                           *");
             System.out.println("*****************************");
             System.out.println("enter number ==> ");
