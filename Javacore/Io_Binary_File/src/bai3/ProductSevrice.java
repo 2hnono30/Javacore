@@ -19,25 +19,21 @@ public class ProductSevrice {
                 int gia = Integer.parseInt(scanner.nextLine());
                 System.out.println("Status : ");
                 String status = scanner.nextLine();
-                Product product = new Product(id, productName, hsx, gia, status);
-                List<Product> products = new ArrayList<>();
-                List<String> product1 = readFromFile("G:\\JavaCore\\Javacore\\Io_Binary_File\\src\\bai3\\dataBase\\file.txt");
-                products.add(product);
-                product1.add(String.valueOf(products));
-                writeToFile("G:\\JavaCore\\Javacore\\Io_Binary_File\\src\\bai3\\dataBase\\file.txt", product1);
+                List<Product>products1 = new ArrayList<>();
+                List<String> products = new ArrayList<>();
+                products1.add(new Product(id,productName,hsx,gia,status));
+                products.add(String.valueOf(products1));
+                writeToFile("G:\\JavaCore\\Javacore\\Io_Binary_File\\src\\bai3\\dataBase\\file.txt", products);
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
     public void show() {
-        Product product = new Product();
-        List<Product> products = new ArrayList<>();
-        List<String> productList = readFromFile("G:\\JavaCore\\Javacore\\Io_Binary_File\\src\\bai3\\dataBase\\file.txt");
+        List<String> productList =readFromFile("G:\\JavaCore\\Javacore\\Io_Binary_File\\src\\bai3\\dataBase\\file.txt");
         for (String p : productList ) {
-            products.add(product);
+            System.out.println(p);
         }
-        System.out.println(products);
     }
 
     public void search() {
@@ -49,7 +45,6 @@ public class ProductSevrice {
             FileOutputStream fos = new FileOutputStream(path);
             ObjectOutputStream obs = new ObjectOutputStream(fos);
             obs.writeObject(products);
-            obs.flush();
             obs.close();
             fos.close();
         } catch (IOException e) {
